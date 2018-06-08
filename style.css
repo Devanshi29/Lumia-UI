@@ -1,0 +1,56 @@
+body{
+	background-color: #25272F;
+	font-family: helvetica;
+	font-weight: bold;
+	color: white;
+}
+
+ul.tile-list li{
+	margin-bottom: 5px;
+	margin-left: 10px;
+	list-style-type: disc;
+}
+
+.tile{
+	background-color: blue;
+	width: 170px;
+	height: 140px;
+	padding: 20px;
+	margin: 5px;
+	float: left;
+    
+}
+.green{
+	background-color: #13B2A3;
+
+}
+
+.red{
+	background-color: #F16F51;
+}
+
+.yellow{
+	background-color: #FDB45C;
+}
+
+.lightgrey{
+	background-color: #F6F6F6;
+	color: black;
+}
+
+.tile-double{
+	width: 390px;
+	height: 140px;
+	margin: 5px;
+	padding: 20px;
+	float: left;
+}
+.city{
+	background-image: url("anand.jpg");
+}
+
+#main_container {
+	max-width: 900px;
+	margin: 0 auto;
+
+}
